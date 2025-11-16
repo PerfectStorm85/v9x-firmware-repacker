@@ -20,7 +20,6 @@ Used camera: HQCAM HQ-M21 - Goke GK7205 HiChip.
 - This README (format documentation)
 - Example `upgrade.zip`
 - Example repacked `.pkg`
-- No copyrighted firmware is included directly — only structural information
 
 ---
 
