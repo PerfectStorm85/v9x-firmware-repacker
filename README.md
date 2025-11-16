@@ -16,7 +16,7 @@ Used camera: HQCAM HQ-M21 - Goke GK7205 HiChip.
 
 # Repository Contents
 
-- `v9x-firmware-repacker.py` — fully working repacker
+- `v9x_pkg_repacker.py` — fully working repacker
 - This README (format documentation)
 - Example `upgrade.zip`
 - Example repacked `.pkg`
