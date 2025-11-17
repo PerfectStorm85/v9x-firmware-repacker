@@ -367,7 +367,6 @@ if __name__ == "__main__":
 # 8. Legal Notice
 This project is provided solely for educational use, device repair and interoperability.
 
-It does NOT contain vendor firmware.
 It must NOT be used to redistribute copyrighted binaries.
 
 # MIT License
